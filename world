@@ -1,0 +1,14 @@
+//hello world
+//this is first code
+
+#include<iostream>
+
+void main()
+{
+    int a=1;
+    
+    printf("%d",a);
+    
+    return ;
+
+}
